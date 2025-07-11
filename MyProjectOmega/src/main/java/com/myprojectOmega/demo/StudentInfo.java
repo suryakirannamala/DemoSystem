@@ -1,5 +1,5 @@
 package com.myprojectOmega.demo;
-
+//new student creation
 public class StudentInfo {
 
 	private Long studentId;
